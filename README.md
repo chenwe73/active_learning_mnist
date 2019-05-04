@@ -8,6 +8,6 @@ width 512 on MNIST
 ![alt text](https://github.com/chenwe73/al_mnist/blob/master/image55.png)
 
 
-width 16 with diversity on fashion MNIST
+width 16 with diversity on fashion MNIST (crossover effect)
 
 ![alt text](https://github.com/chenwe73/al_mnist/blob/master/image30.png)
