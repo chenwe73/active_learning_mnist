@@ -1,4 +1,4 @@
-# al_mnist
+# active_learning_mnist
 
 active learning on MNIST
 
