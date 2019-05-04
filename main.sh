@@ -1,0 +1,4 @@
+DEVICES=0
+
+CUDA_VISIBLE_DEVICES=$DEVICES python3 al.py
+
